@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--商品分类-->
+    <string-array name="goods_channel_name">
+        <item>电子</item>
+        <item>食品</item>
+        <item>日用品</item>
+        <item>酒类</item>
+    </string-array>
+    <string-array name="goods_channel_id">
+        <item>电子</item>
+        <item>食品</item>
+        <item>日用品</item>
+        <item>酒类</item>
+    </string-array>
+</resources>

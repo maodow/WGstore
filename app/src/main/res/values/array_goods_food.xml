@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goods_food_name">
+        <item>面包</item>
+        <item>饼干</item>
+        <item>蛋糕</item>
+        <item>牛肉</item>
+        <item>鱼</item>
+        <item>蔬菜</item>
+    </string-array>
+    <string-array name="goods_food_price">
+        <item>3.00</item>
+        <item>5.00</item>
+        <item>20.00</item>
+        <item>25.00</item>
+        <item>13.00</item>
+        <item>3.00</item>
+    </string-array>
+</resources>

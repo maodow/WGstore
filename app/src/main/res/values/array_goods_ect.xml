@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goods_etc_name">
+        <item>ipad</item>
+        <item>iphone</item>
+        <item>显示器</item>
+        <item>笔记本电脑</item>
+        <item>键盘</item>
+    </string-array>
+    <string-array name="goods_etc_price">
+        <item>2399.00</item>
+        <item>5288.00</item>
+        <item>899.00</item>
+        <item>4599.00</item>
+        <item>68.00</item>
+    </string-array>
+</resources>

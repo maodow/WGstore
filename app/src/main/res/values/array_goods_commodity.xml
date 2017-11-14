@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goods_commodity_name">
+        <item>餐巾纸</item>
+        <item>收纳箱</item>
+        <item>咖啡杯</item>
+        <item>雨伞</item>
+    </string-array>
+    <string-array name="goods_commodity_price">
+        <item>10.00</item>
+        <item>20.00</item>
+        <item>5.00</item>
+        <item>45.00</item>
+    </string-array>
+</resources>
